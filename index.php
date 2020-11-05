@@ -7,6 +7,10 @@
 </head>
 <body>
 <h1>Bivenidos</h1>
+
+<ul>
+    <li>Home</li>
+</ul>
     
 </body>
 </html>
